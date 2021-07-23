@@ -4,3 +4,10 @@
     background-size: cover;
     
 }
+
+#serv{
+
+    background-image: url(board.jpg);
+    height: 60vh;
+    background-size: cover;
+}
