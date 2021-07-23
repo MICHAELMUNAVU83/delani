@@ -8,6 +8,11 @@
 #serv{
 
     background-image: url(board.jpg);
-    height: 40vh;
+    height: 50vh;
     background-size: cover;
+}
+#contact{
+
+    background-image: url(c.jpg);
+    height: 80vh;
 }
