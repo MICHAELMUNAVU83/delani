@@ -1,6 +1,6 @@
 #headerr{
     background-image: url(stairs.jpg);
-    height: 75vh;
+    height: 65vh;
     background-size: cover;
     
 }
@@ -8,6 +8,6 @@
 #serv{
 
     background-image: url(board.jpg);
-    height: 60vh;
+    height: 40vh;
     background-size: cover;
 }
