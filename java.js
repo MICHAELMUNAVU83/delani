@@ -1,54 +1,65 @@
 $(document).ready(function () {
     $('#des').hide()
 
-    $('#dess').click(function () {
+    $('#dess').mouseenter(function () {
         $('#dess').hide()
     })
 
-    $('#dess').click(function () {
+    $('#dess').mouseenter(function () {
         $('#des').show()
     })
-    $('#des').click(function () {
+    $('#des').mouseleave(function () {
         $('#des').hide()
     })
-    $('#des').click(function () {
+    $('#des').mouseleave(function () {
         $('#dess').show()
     })
+    
 
     $('#dev').hide()
 
-    $('#devv').click(function () {
+    $('#devv').mouseenter(function () {
         $('#devv').hide()
     })
 
-    $('#devv').click(function () {
+    $('#devv').mouseenter(function () {
         $('#dev').show()
     })
-    $('#dev').click(function () {
+    $('#dev').mouseleave(function () {
         $('#dev').hide()
     })
-    $('#dev').click(function () {
+    $('#dev').mouseleave(function () {
         $('#devv').show()
     })
+   
 
 
 
     $('#prd').hide()
 
-    $('#prdd').click(function () {
+    $('#prdd').mouseenter(function () {
         $('#prdd').hide()
     })
 
-    $('#prdd').click(function () {
+    $('#prdd').mouseenter(function () {
         $('#prd').show()
     })
-    $('#prd').click(function () {
+    $('#prd').mouseleave(function () {
         $('#prd').hide()
     })
-    $('#prd').click(function () {
+    $('#prd').mouseleave(function () {
         $('#prdd').show()
     })
+    
 
+
+        
+    
+
+
+
+
+   
 
 
 
@@ -65,3 +76,17 @@ $(document).ready(function () {
 
 
 })
+
+function subbb(){
+
+
+    let names = document.getElementById('jina').value 
+    document.getElementById('jina').innerHTML= names
+
+
+    let mail = document.getElementById('email').value 
+    document.getElementById('email').innerHTML= mail
+
+    alert(  'Hi ' + names + ' ' + 'we have received your message thank you.' )
+    
+}
