@@ -17,20 +17,25 @@
     height: 80vh;
 }
 
-#image{
+    
+
+
+#work1{
 
     position: relative;
     
 }
-.picha{
+
+
+.work11{
 
     display:inline-block;
     
 
 }
 
-.word{
 
+.work111{
     position: absolute;
     top: 0;
     left: 0;
@@ -42,17 +47,357 @@
     align-items: center;
     justify-content: center;
     opacity: 0;
-    font-size: 50px;
-    box-shadow: none;
-    border-color: white;
-    border-style: solid;
-    
-
-    
-
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
 }
-.word:hover{
+.work111:hover{
     opacity: 1;
+    transform: translateY(10px);
+   
 }
+
+#work2{
+
+    position: relative;
+    
+}
+
+
+.work22{
+
+    display:inline-block;
+    
+
+}
+
+
+.work222{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work222:hover{
+    opacity: 1;
+    transform: translateY(10px);
+   
+}
+
+
+#work3{
+
+    position: relative;
+    
+}
+
+
+.work33{
+
+    display:inline-block;
+    
+
+}
+
+
+.work333{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work333:hover{
+    opacity: 1;
+    transform: translateY(10px);
+    
+}
+
+
+#work4{
+
+    position: relative;
+    
+}
+
+
+.work44{
+
+    display:inline-block;
+    
+
+}
+
+
+.work444{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work444:hover{
+    opacity: 1;
+    transform: translateY(10px);
+   
+}
+
+
+#work5{
+
+    position: relative;
+    
+}
+
+
+.work55{
+
+    display:inline-block;
+    
+
+}
+
+
+.work555{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work555:hover{
+    opacity: 1;
+    transform: translateY(10px);
+    
+}
+
+
+#work6{
+
+    position: relative;
+    
+}
+
+
+.work66{
+
+    display:inline-block;
+    
+
+}
+
+
+.work666{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work666:hover{
+    opacity: 1;
+    transform: translateY(10px);
+    
+}
+
+
+#work7{
+
+    position: relative;
+    
+}
+
+
+.work77{
+
+    display:inline-block;
+    
+
+}
+
+
+.work777{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work777:hover{
+    opacity: 1;
+    transform: translateY(10px);
+    
+}
+
+
+#work8{
+
+    position: relative;
+    
+}
+
+
+.work88{
+
+    display:inline-block;
+    
+
+}
+
+
+.work888{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    font-size: 30px;
+    transform: translateY(10px);
+    transition:0.15s ;
+    -webkit-transition:0.15s ;
+    -moz-transition:0.15s ;
+    -ms-transition:0.15s ;
+    -o-transition:0.15s ;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+.work888:hover{
+    opacity: 1;
+    transform: translateY(10px);}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
