@@ -84,9 +84,17 @@ function subbb(){
     document.getElementById('jina').innerHTML= names
 
 
-    let mail = document.getElementById('email').value 
-    document.getElementById('email').innerHTML= mail
+    let maill = document.getElementById('emaill').value 
+    document.getElementById('emaill').innerHTML= maill
 
-    alert(  'Hi ' + names + ' ' + 'we have received your message thank you.' )
+    
+
+    if(names= ' ' ){
+        alert('Kindly enter your name')
+    }else{
+
+        alert(  'Hi ' + names + ' ' + 'we have received your message thank you.' )
+    }
     
 }
+
