@@ -33,6 +33,24 @@ $(document).ready(function () {
 
 
 
+    $('#prd').hide()
+
+    $('#prdd').click(function () {
+        $('#prdd').hide()
+    })
+
+    $('#prdd').click(function () {
+        $('#prd').show()
+    })
+    $('#prd').click(function () {
+        $('#prd').hide()
+    })
+    $('#prd').click(function () {
+        $('#prdd').show()
+    })
+
+
+
 
 
 
