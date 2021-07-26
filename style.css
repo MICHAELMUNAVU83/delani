@@ -1,6 +1,6 @@
 #headerr{
     background-image: url(stairs.jpg);
-    height: 65vh;
+    height: 75vh;
     background-size: cover;
     
 }
@@ -48,6 +48,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -58,11 +61,15 @@
     -moz-transform: translateY(10px);
     -ms-transform: translateY(10px);
     -o-transform: translateY(10px);
+    
 }
 .work111:hover{
     opacity: 1;
     transform: translateY(10px);
-   
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
 }
 
 #work2{
@@ -93,6 +100,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -139,6 +149,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -185,6 +198,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -230,7 +246,7 @@
     align-items: center;
     justify-content: center;
     opacity: 0;
-    font-size: 30px;
+    font-size: 30px;   
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -245,7 +261,10 @@
 .work555:hover{
     opacity: 1;
     transform: translateY(10px);
-    
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
 }
 
 
@@ -276,6 +295,8 @@
     align-items: center;
     justify-content: center;
     opacity: 0;
+   
+    
     font-size: 30px;
     transform: translateY(10px);
     transition:0.15s ;
@@ -323,6 +344,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
@@ -369,6 +393,9 @@
     justify-content: center;
     opacity: 0;
     font-size: 30px;
+    border-color: white;
+    border-style: solid ;
+    
     transform: translateY(10px);
     transition:0.15s ;
     -webkit-transition:0.15s ;
